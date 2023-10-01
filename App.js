@@ -11,6 +11,8 @@ import BMI from "./src/screens/BMI"
 import colors from './src/assets/colors';
 import CustomDrawerContent from './src/components/CustomDrawerContent';
 
+//test
+
 export default function App() {
   const Drawer = createDrawerNavigator();
   return (
