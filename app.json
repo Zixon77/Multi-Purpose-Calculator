@@ -3,6 +3,7 @@
     "name": "calc-master",
     "slug": "calc-master",
     "version": "1.0.0",
+    "android":{"softwareKeyboardLayoutMode": "pan"},
     "assetBundlePatterns": [
       "**/*"
     ]

@@ -25,6 +25,6 @@ const styles = StyleSheet.create({
     fontSize:30,
     fontWeight:"bold",
     marginLeft:"7%",
-    marginTop:"5%"
+    marginTop:"20%"
   },
-});
+})

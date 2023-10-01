@@ -13,6 +13,7 @@ const BillTemp = (props) => {
         placeholder='0'
         onChangeText={props.onChangeText}
         style = {styles.amount}
+        keyboardType='numeric'
       />
       </View>
 
