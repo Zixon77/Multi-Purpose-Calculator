@@ -14,6 +14,7 @@ const BillTemp = (props) => {
         onChangeText={props.onChangeText}
         style = {styles.amount}
         keyboardType='numeric'
+        maxLength={5}
       />
       </View>
 

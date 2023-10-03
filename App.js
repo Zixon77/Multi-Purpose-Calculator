@@ -40,7 +40,7 @@ export default function App() {
               component={Units}
             />
             <Drawer.Screen
-              name = "BMI"
+              name = "Adult BMI"
               component={BMI}
             />
           </Drawer.Navigator>
